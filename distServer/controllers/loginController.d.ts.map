@@ -1,0 +1,1 @@
+{"version":3,"file":"loginController.d.ts","sourceRoot":"","sources":["../../serverSrc/controllers/loginController.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,OAAO,EAAE,QAAQ,EAAE,MAAM,SAAS,CAAC;AAGjD,OAAO,KAAK,EAAQ,SAAS,EAAE,aAAa,EAAc,MAAM,kBAAkB,CAAC;AAOnF,eAAO,MAAM,SAAS,GAAU,KAAK,OAAO,CAAC,EAAE,EAAE,EAAE,EAAE,SAAS,CAAC,EAAE,KAAK,QAAQ,CAAC,aAAa,CAAC,sEAqC5F,CAAC"}

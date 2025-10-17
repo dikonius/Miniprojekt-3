@@ -1,0 +1,1 @@
+{"version":3,"file":"registerController.d.ts","sourceRoot":"","sources":["../../serverSrc/controllers/registerController.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,OAAO,EAAE,QAAQ,EAAE,MAAM,SAAS,CAAC;AAGjD,OAAO,KAAK,EAAQ,aAAa,EAAE,MAAM,kBAAkB,CAAC;AAK5D,eAAO,MAAM,YAAY,GAAU,KAAK,OAAO,EAAE,KAAK,QAAQ,CAAC,aAAa,CAAC,sEAwC5E,CAAC"}
